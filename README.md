@@ -1,5 +1,7 @@
 # jQuery Filter Table Plugin
 
+[![TypeScript definitions on DefinitelyTyped](http://definitelytyped.org/badges/standard.svg)](https://github.com/DefinitelyTyped/DefinitelyTyped/blob/50e385dcbf594ccf8d01e5c044b861261ab8c54e/types/jquery.filtertable/index.d.ts)
+
 This plugin will add a search filter to tables. When typing in the filter, any rows that do not contain the filter will be hidden.
 
 One can also define clickable shortcuts for commonly used terms.
